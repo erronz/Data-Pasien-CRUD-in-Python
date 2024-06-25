@@ -1,2 +1,4 @@
-# Data-Pasien-CRUD-in-Python
-Program ini merupakan alat bantu untuk dapat melakukan penyimpanan data pasien rumah sakit.
+# Python CRUD Application for Data Pasien
+A comprehensive Python application for managing patient data with Create, Read, Update, and Delete (CRUD) operations.
+## Business Understanding
+e
